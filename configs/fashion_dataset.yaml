@@ -1,0 +1,13 @@
+path: ./data/annotated
+train: images/train
+val: images/val
+test: images/test
+
+nc: 6
+names:
+  0: formal
+  1: casual
+  2: sportswear
+  3: streetwear
+  4: traditional
+  5: accessories
